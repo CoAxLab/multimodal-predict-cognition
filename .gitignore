@@ -1,0 +1,15 @@
+#ignore compiled files
+*.pyc
+
+#ignore all checkpoints
+.ipynb_checkpoints
+
+# pycache
+__pycache__/
+
+# ignore dataset, as it is too heavy for github
+data/final_data.hdf5
+
+# Ignore uploading age, as it is a restricted data in HCP and cannot be publicly available
+data/age.xlsx
+data/data_response_variables.hdf5
