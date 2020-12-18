@@ -1,0 +1,1332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="19.049999cm"
+   height="22.23cm"
+   viewBox="0 0 190.5 222.30001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Fig4_v2.svg"
+   inkscape:export-filename="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/Fig4_v2.png"
+   inkscape:export-xdpi="599.9754"
+   inkscape:export-ydpi="599.9754">
+  <defs
+     id="defs2"
+     style="stroke-linecap:butt;stroke-linejoin:round">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:isstock="true">
+      <path
+         id="path6191"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <style
+       id="style12276"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <path
+       id="C0_0_b2fd7013ca"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="DejaVuSans-76"
+       d="m 9.8125,72.90625 h 9.859375 V 8.296875 h 35.5 V 0 H 9.8125 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="DejaVuSans-82"
+       d="m 44.390625,34.1875 q 3.171875,-1.078125 6.171875,-4.59375 3,-3.515625 6.03125,-9.671875 L 66.609375,0 H 56 l -9.3125,18.703125 q -3.625,7.328125 -7.015625,9.71875 -3.390625,2.390625 -9.25,2.390625 h -10.75 V 0 H 9.8125 v 72.90625 h 22.265625 q 12.5,0 18.65625,-5.234375 6.15625,-5.21875 6.15625,-15.765625 0,-6.890625 -3.203125,-11.4375 -3.203125,-4.53125 -9.296875,-6.28125 z m -24.71875,30.609375 v -25.875 h 12.40625 q 7.125,0 10.765625,3.296875 3.640625,3.296875 3.640625,9.6875 0,6.390625 -3.640625,9.640625 -3.640625,3.25 -10.765625,3.25 z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="C1_0_05a8cfa4ff"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="C2_0_2ef6eac6c4"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <clipPath
+       id="p44b0a58ebf"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect16525"
+         y="106.11897"
+         x="90"
+         width="253.63637"
+         height="207.65297"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <clipPath
+       id="p346d00635d"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect16528"
+         y="86.400002"
+         x="406.01413"
+         width="230.33536"
+         height="247.09091"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <clipPath
+       id="pf19d279e33"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect16531"
+         y="382.90909"
+         x="424.07068"
+         width="194.22226"
+         height="247.09091"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <style
+       id="style27769"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <path
+       id="C0_0_b2fd7013ca-7"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="DejaVuSans-76-6"
+       d="m 9.8125,72.90625 h 9.859375 V 8.296875 h 35.5 V 0 H 9.8125 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="DejaVuSans-82-9"
+       d="m 44.390625,34.1875 q 3.171875,-1.078125 6.171875,-4.59375 3,-3.515625 6.03125,-9.671875 L 66.609375,0 H 56 l -9.3125,18.703125 q -3.625,7.328125 -7.015625,9.71875 -3.390625,2.390625 -9.25,2.390625 h -10.75 V 0 H 9.8125 v 72.90625 h 22.265625 q 12.5,0 18.65625,-5.234375 6.15625,-5.21875 6.15625,-15.765625 0,-6.890625 -3.203125,-11.4375 -3.203125,-4.53125 -9.296875,-6.28125 z m -24.71875,30.609375 v -25.875 h 12.40625 q 7.125,0 10.765625,3.296875 3.640625,3.296875 3.640625,9.6875 0,6.390625 -3.640625,9.640625 -3.640625,3.25 -10.765625,3.25 z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="C1_0_05a8cfa4ff-9"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="C2_0_2ef6eac6c4-2"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <clipPath
+       id="p44b0a58ebf-5"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect32018"
+         y="106.11897"
+         x="90"
+         width="253.63637"
+         height="207.65297"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <clipPath
+       id="p346d00635d-4"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect32021"
+         y="86.400002"
+         x="406.01413"
+         width="230.33536"
+         height="247.09091"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <clipPath
+       id="pf19d279e33-8"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect32024"
+         y="382.90909"
+         x="424.07068"
+         width="194.22226"
+         height="247.09091"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <style
+       id="style51756"
+       type="text/css">
+*{stroke-linecap:butt;stroke-linejoin:round;}
+  </style>
+    <path
+       id="C0_0_c95e2e84ec"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="DejaVuSans-76-4"
+       d="m 9.8125,72.90625 h 9.859375 V 8.296875 h 35.5 V 0 H 9.8125 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="DejaVuSans-82-6"
+       d="m 44.390625,34.1875 q 3.171875,-1.078125 6.171875,-4.59375 3,-3.515625 6.03125,-9.671875 L 66.609375,0 H 56 l -9.3125,18.703125 q -3.625,7.328125 -7.015625,9.71875 -3.390625,2.390625 -9.25,2.390625 h -10.75 V 0 H 9.8125 v 72.90625 h 22.265625 q 12.5,0 18.65625,-5.234375 6.15625,-5.21875 6.15625,-15.765625 0,-6.890625 -3.203125,-11.4375 -3.203125,-4.53125 -9.296875,-6.28125 z m -24.71875,30.609375 v -25.875 h 12.40625 q 7.125,0 10.765625,3.296875 3.640625,3.296875 3.640625,9.6875 0,6.390625 -3.640625,9.640625 -3.640625,3.25 -10.765625,3.25 z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="C1_0_633d8fd11e"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <path
+       id="C2_0_783c919bd1"
+       d="m 0,2.738613 c 0.726289,0 1.422928,-0.288558 1.936492,-0.802121 C 2.450055,1.422928 2.738613,0.726289 2.738613,0 c 0,-0.726289 -0.288558,-1.422928 -0.802121,-1.936492 C 1.422928,-2.450055 0.726289,-2.738613 0,-2.738613 c -0.726289,0 -1.422928,0.288558 -1.936492,0.802121 C -2.450055,-1.422928 -2.738613,-0.726289 -2.738613,0 c 0,0.726289 0.288558,1.422928 0.802121,1.936492 C -1.422928,2.450055 -0.726289,2.738613 0,2.738613 Z"
+       inkscape:connector-curvature="0"
+       style="stroke-linecap:butt;stroke-linejoin:round" />
+    <clipPath
+       id="p8c1d3fd114"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect56005"
+         y="106.11897"
+         x="90"
+         width="253.63637"
+         height="207.65297"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <clipPath
+       id="pd6017c6c2d"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect56008"
+         y="86.400002"
+         x="406.01413"
+         width="230.33536"
+         height="247.09091"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+    <clipPath
+       id="pc7a0ca5cf4"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <rect
+         id="rect56011"
+         y="382.90909"
+         x="424.07068"
+         width="194.22226"
+         height="247.09091"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.81149737"
+     inkscape:cx="356.83839"
+     inkscape:cy="469.70378"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:window-width="1853"
+     inkscape:window-height="1014"
+     inkscape:window-x="67"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     fit-margin-top="2"
+     fit-margin-left="2"
+     fit-margin-right="2"
+     fit-margin-bottom="2"
+     units="cm" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(0.01600405,27.673975)">
+    <g
+       id="g2058"
+       style="stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:export-xdpi="300.05508"
+       inkscape:export-ydpi="300.05508">
+      <rect
+         y="-9.4771261"
+         x="0.96212602"
+         height="202.14688"
+         width="188.77911"
+         id="rect1887"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.58034992px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:0.23950875;stroke-linecap:butt;stroke-linejoin:round"
+         x="6.486999"
+         y="105.36373"
+         id="text4558-3-9"><tspan
+           id="tspan987"
+           sodipodi:role="line"
+           x="6.486999"
+           y="105.36373"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.47083044px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke-width:0.23950875;stroke-linecap:butt;stroke-linejoin:round">b. FLUID INTELLIGENCE</tspan></text>
+      <flowRoot
+         transform="matrix(0.89346149,0,0,0.89346149,0.2113721,14.754407)"
+         xml:space="preserve"
+         id="flowRoot64986"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"><flowRegion
+           id="flowRegion64988"
+           style="stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"><rect
+             id="rect64990"
+             width="54.27816"
+             height="21.215321"
+             x="249.62442"
+             y="74.376884"
+             style="stroke-width:0.07000434;stroke-linecap:butt;stroke-linejoin:round" /></flowRegion><flowPara
+           id="flowPara64992"
+           style="stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round" /></flowRoot>      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.45580006px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236395;stroke-linecap:butt;stroke-linejoin:round"
+         x="252.78156"
+         y="75.791557"
+         id="text64996"><tspan
+           sodipodi:role="line"
+           id="tspan64994"
+           style="stroke-width:0.236395;stroke-linecap:butt;stroke-linejoin:round"
+           x="252.78156"
+           y="84.157722" /></text>
+      <text
+         id="text4558"
+         y="105.37608"
+         x="96.730515"
+         style="font-style:normal;font-weight:normal;font-size:9.45580006px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:0.236395;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           id="tspan989"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.41270733px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke-width:0.236395;stroke-linecap:butt;stroke-linejoin:round"
+           y="105.37608"
+           x="96.730515"
+           sodipodi:role="line">c. CRYSTALLIZED INTELLIGENCE</tspan></text>
+      <g
+         transform="matrix(0.63098747,0,0,0.63098747,56.809503,6.8475278)"
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g1108">
+        <text
+           transform="rotate(-90)"
+           id="text65000-3"
+           y="69.265739"
+           x="-171.653"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="69.265739"
+             x="-171.1638"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-4"
+             sodipodi:role="line">Local </tspan><tspan
+             id="tspan65002-9"
+             y="72.854958"
+             x="-171.653"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line">connectome</tspan></text>
+        <text
+           transform="rotate(-90)"
+           id="text65000-74-4-6"
+           y="141.70174"
+           x="-212.9039"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="141.70174"
+             x="-212.4147"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-1-3-1"
+             sodipodi:role="line">Cortical </tspan><tspan
+             y="145.29095"
+             x="-212.9039"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line"
+             id="tspan72060-4">Thickness</tspan><tspan
+             id="tspan65002-2-5-0"
+             y="148.81874"
+             x="-212.9039"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line" /></text>
+        <text
+           transform="rotate(-90)"
+           id="text65000-74-4-9-6"
+           y="141.20937"
+           x="-192.16975"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="141.20937"
+             x="-191.68056"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-1-3-8-0"
+             sodipodi:role="line">Cortical </tspan><tspan
+             y="144.79858"
+             x="-192.16975"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line"
+             id="tspan72060-1-1">Surface</tspan><tspan
+             id="tspan65002-2-5-07-0"
+             y="148.32637"
+             x="-192.16975"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.07651353px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05191284;stroke-linecap:butt;stroke-linejoin:round"
+           x="85.814896"
+           y="193.58772"
+           id="text5564-9-9"
+           transform="scale(1.0458723,0.95613966)"><tspan
+             sodipodi:role="line"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38958907px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.05191284;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             x="86.146263"
+             y="193.58772"
+             id="tspan5566-1-1">Mean positive </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38958907px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.05191284;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             x="85.814896"
+             y="196.18336"
+             rotate="0 0 0 0 0 0 0 0"
+             id="tspan5588-2-2">weights</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:2.07651353px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05191284;stroke-linecap:butt;stroke-linejoin:round"
+           x="115.16833"
+           y="193.5878"
+           id="text5564-7-7-7"
+           transform="scale(1.0458723,0.95613966)"><tspan
+             sodipodi:role="line"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38958907px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.05191284;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             x="115.49969"
+             y="193.5878"
+             id="tspan5566-5-0-0">Mean negative </tspan><tspan
+             sodipodi:role="line"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.38958907px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.05191284;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+             x="115.16833"
+             y="196.18344"
+             rotate="0 0 0 0 0 0 0 0"
+             id="tspan5588-3-9-9">weights</tspan></text>
+        <text
+           transform="rotate(-90)"
+           id="text65000-74-6-5"
+           y="70.760345"
+           x="-203.2308"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="70.760345"
+             x="-203.2308"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-1-2-6"
+             sodipodi:role="line">Resting-state</tspan><tspan
+             id="tspan65002-2-0-2"
+             y="74.349564"
+             x="-203.2308"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line">connectivity</tspan></text>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.70798671;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9177215;paint-order:fill markers stroke"
+           id="rect1005"
+           width="142.32033"
+           height="64.90641"
+           x="-86.520935"
+           y="159.6216" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.70798671;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9177215;paint-order:fill markers stroke"
+           id="rect1005-3"
+           width="142.32607"
+           height="64.910568"
+           x="63.567753"
+           y="159.61809" />
+      </g>
+      <text
+         id="text4554"
+         y="-3.5174346"
+         x="10.402409"
+         style="font-style:normal;font-weight:normal;font-size:9.45580006px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:0.236395;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           id="tspan985"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.41270733px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.236395;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           y="-3.5174346"
+           x="10.402409"
+           sodipodi:role="line">a. GLOBAL COGNITIVE FUNCTION</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+         x="-115.73215"
+         y="5.7315831"
+         id="text65000-7"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998-2"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-115.42346"
+           y="5.7315831">Local </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-115.73215"
+           y="7.996346"
+           id="tspan65002-1">connectome</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+         x="-133.95566"
+         y="5.7315831"
+         id="text65000-74-6"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998-1-2"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-133.95566"
+           y="5.7315831">Resting-state</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-133.95566"
+           y="7.996346"
+           id="tspan65002-2-0">connectivity</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+         x="-128.79874"
+         y="51.437992"
+         id="text65000-74-4-9-2"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998-1-3-8-5"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-128.49005"
+           y="51.437992">Cortical </tspan><tspan
+           id="tspan72060-1-19"
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-128.79874"
+           y="53.702755">Surface</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-128.79874"
+           y="55.928749"
+           id="tspan65002-2-5-07-7" /></text>
+      <text
+         transform="scale(1.0458723,0.95613968)"
+         id="text5564-9"
+         y="129.62337"
+         x="17.839514"
+         style="font-style:normal;font-weight:normal;font-size:1.31026018px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.03275651;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           id="tspan5566-1"
+           y="129.62337"
+           x="18.048605"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.50780773px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.03275651;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">Mean positive </tspan><tspan
+           id="tspan5588-2"
+           rotate="0 0 0 0 0 0 0 0"
+           y="131.2612"
+           x="17.839514"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.50780773px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.03275651;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">weights</tspan></text>
+      <text
+         transform="scale(1.0458723,0.95613968)"
+         id="text5564-7-7"
+         y="129.62317"
+         x="36.361526"
+         style="font-style:normal;font-weight:normal;font-size:1.31026018px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.03275651;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           id="tspan5566-5-0"
+           y="129.62317"
+           x="36.570618"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.50780773px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.03275651;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">Mean negative </tspan><tspan
+           id="tspan5588-3-9"
+           rotate="0 0 0 0 0 0 0 0"
+           y="131.261"
+           x="36.361526"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.50780773px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.03275651;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">weights</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+         x="-140.75313"
+         y="51.438004"
+         id="text65000-74-4-36"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998-1-3-7"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-140.44444"
+           y="51.438004">Cortical </tspan><tspan
+           id="tspan72060-5"
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-140.75313"
+           y="53.702766">Thickness</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.22599387px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.16694954;stroke-linecap:butt;stroke-linejoin:round"
+           x="-140.75313"
+           y="55.928761"
+           id="tspan65002-2-5-3" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+         x="-17.159473"
+         y="6.6580176"
+         id="text65000"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-16.562656"
+           y="6.6580176">Local </tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-17.159473"
+           y="11.036773"
+           id="tspan65002">connectome</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+         x="-54.503376"
+         y="7.2093081"
+         id="text65000-74"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998-1"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-54.503376"
+           y="7.2093081">Resting-state</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-54.503376"
+           y="11.588063"
+           id="tspan65002-2">connectivity</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+         x="-68.049431"
+         y="106.06538"
+         id="text65000-74-4"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998-1-3"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-67.452614"
+           y="106.06538">Cortical </tspan><tspan
+           id="tspan72060"
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-68.049431"
+           y="110.44413">Thickness</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-68.049431"
+           y="114.74793"
+           id="tspan65002-2-5" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+         x="-45.221935"
+         y="106.06538"
+         id="text65000-74-4-9-1"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan64998-1-3-8-3"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-44.625118"
+           y="106.06538">Cortical </tspan><tspan
+           id="tspan72060-1-12"
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-45.221935"
+           y="110.44413">Surface</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.30379772px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.32278481;stroke-linecap:butt;stroke-linejoin:round"
+           x="-45.221935"
+           y="114.74793"
+           id="tspan65002-2-5-07-06" /></text>
+      <text
+         transform="scale(1.0458723,0.95613968)"
+         id="text5564"
+         y="35.42868"
+         x="31.316372"
+         style="font-style:normal;font-weight:normal;font-size:2.53329301px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06333233;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           id="tspan5566"
+           y="35.42868"
+           x="31.720634"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.91523671px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.06333233;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">Mean positive </tspan><tspan
+           id="tspan5588"
+           rotate="0 0 0 0 0 0 0 0"
+           y="38.595295"
+           x="31.316372"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.91523671px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.06333233;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">weights</tspan></text>
+      <text
+         transform="scale(1.0458723,0.95613968)"
+         id="text5564-7"
+         y="35.428654"
+         x="69.766594"
+         style="font-style:normal;font-weight:normal;font-size:2.53329301px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.06333233;stroke-linecap:butt;stroke-linejoin:round"
+         xml:space="preserve"><tspan
+           id="tspan5566-5"
+           y="35.428654"
+           x="70.170853"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.91523671px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.06333233;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">Mean negative </tspan><tspan
+           id="tspan5588-3"
+           rotate="0 0 0 0 0 0 0 0"
+           y="38.595268"
+           x="69.766594"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.91523671px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke:#000000;stroke-width:0.06333233;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+           sodipodi:role="line">weights</tspan></text>
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogTotalComp_Unadj/thickness_weights.png"
+         xlink:href="CogTotalComp_Unadj/thickness_weights.png"
+         y="57.698326"
+         x="113.06426"
+         id="image1227"
+         preserveAspectRatio="none"
+         height="22.54323"
+         width="72.048683"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogTotalComp_Unadj/surface_weights.png"
+         xlink:href="CogTotalComp_Unadj/surface_weights.png"
+         y="33.218384"
+         x="113.06431"
+         id="image1238"
+         preserveAspectRatio="none"
+         height="22.54323"
+         width="72.048683"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogTotalComp_Unadj/res_neg_choord.png"
+         xlink:href="CogTotalComp_Unadj/res_neg_choord.png"
+         y="38.306652"
+         x="54.15435"
+         id="image1249"
+         preserveAspectRatio="none"
+         height="36.599529"
+         width="36.599529"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogTotalComp_Unadj/res_pos_choord.png"
+         xlink:href="CogTotalComp_Unadj/res_pos_choord.png"
+         y="38.306652"
+         x="14.795348"
+         id="image1260"
+         preserveAspectRatio="none"
+         height="36.599529"
+         width="36.599529"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogTotalComp_Unadj/local_connectome.png"
+         xlink:href="CogTotalComp_Unadj/local_connectome.png"
+         y="2.476423"
+         x="14.545801"
+         id="image1271"
+         preserveAspectRatio="none"
+         height="24.301981"
+         width="170.11386"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogCrystalComp_Unadj/thickness_weights.png"
+         xlink:href="CogCrystalComp_Unadj/thickness_weights.png"
+         y="135.17247"
+         x="149.55614"
+         id="image1416"
+         preserveAspectRatio="none"
+         height="11.659673"
+         width="35.356056"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogCrystalComp_Unadj/surface_weights.png"
+         xlink:href="CogCrystalComp_Unadj/surface_weights.png"
+         y="122.51122"
+         x="149.55614"
+         id="image1427"
+         preserveAspectRatio="none"
+         height="11.659673"
+         width="35.356056"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogCrystalComp_Unadj/local_connectome.png"
+         xlink:href="CogCrystalComp_Unadj/local_connectome.png"
+         y="108.92181"
+         x="104.49799"
+         id="image1460"
+         preserveAspectRatio="none"
+         height="11.581814"
+         width="81.072693"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogFluidComp_Unadj/thickness_weights.png"
+         xlink:href="CogFluidComp_Unadj/thickness_weights.png"
+         y="135.17284"
+         x="54.772385"
+         id="image1621"
+         preserveAspectRatio="none"
+         height="11.659673"
+         width="35.356056"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogFluidComp_Unadj/surface_weights.png"
+         xlink:href="CogFluidComp_Unadj/surface_weights.png"
+         y="122.59683"
+         x="54.772385"
+         id="image1632"
+         preserveAspectRatio="none"
+         height="11.659673"
+         width="35.356056"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogFluidComp_Unadj/res_neg_choord.png"
+         xlink:href="CogFluidComp_Unadj/res_neg_choord.png"
+         y="125.90688"
+         x="28.299131"
+         id="image1643"
+         preserveAspectRatio="none"
+         height="18.92977"
+         width="18.92977"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogFluidComp_Unadj/res_pos_choord.png"
+         xlink:href="CogFluidComp_Unadj/res_pos_choord.png"
+         y="125.90688"
+         x="9.3693523"
+         id="image1654"
+         preserveAspectRatio="none"
+         height="18.92977"
+         width="18.92977"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogFluidComp_Unadj/local_connectome.png"
+         xlink:href="CogFluidComp_Unadj/local_connectome.png"
+         y="108.9218"
+         x="9.054368"
+         id="image1665"
+         preserveAspectRatio="none"
+         height="11.581814"
+         width="81.072693"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="matrix(0.89346149,0,0,0.89346149,-94.330711,-26.851121)"
+         id="g1186">
+        <image
+           sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/DDisc_AUC_200/surface_weights.png"
+           xlink:href="DDisc_AUC_200/surface_weights.png"
+           y="222.94067"
+           x="118.52618"
+           id="image1994"
+           preserveAspectRatio="none"
+           height="13.046"
+           width="39.559998"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <image
+           sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/DDisc_AUC_200/sub_volumes.png"
+           xlink:href="DDisc_AUC_200/sub_volumes.png"
+           y="222.94067"
+           x="170.83286"
+           id="image2005"
+           preserveAspectRatio="none"
+           height="13.046"
+           width="36.629154"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <image
+           sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/DDisc_AUC_200/local_connectome.png"
+           xlink:href="DDisc_AUC_200/local_connectome.png"
+           y="206.92867"
+           x="116.722"
+           id="image2016"
+           preserveAspectRatio="none"
+           height="12.962858"
+           width="90.739998"
+           style="stroke-linecap:butt;stroke-linejoin:round" />
+        <text
+           transform="rotate(-90)"
+           id="text65000-74-4-9-3"
+           y="114.33521"
+           x="-229.65086"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="114.33521"
+             x="-229.30548"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-1-3-8-6"
+             sodipodi:role="line">Cortical </tspan><tspan
+             y="116.86922"
+             x="-229.65086"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line"
+             id="tspan72060-1-7">Surface</tspan><tspan
+             id="tspan65002-2-5-07-5"
+             y="119.35986"
+             x="-229.65086"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line" /></text>
+        <text
+           transform="rotate(-90)"
+           id="text65000-3-1-3"
+           y="113.10154"
+           x="-214.13246"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="113.10154"
+             x="-213.78708"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-4-9-5"
+             sodipodi:role="line">Local </tspan><tspan
+             id="tspan65002-9-5-6"
+             y="115.63555"
+             x="-214.13246"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line">connectome</tspan></text>
+        <text
+           transform="rotate(-90)"
+           id="text65000-74-4-9-3-2"
+           y="166.03342"
+           x="-229.72771"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="166.03342"
+             x="-229.72771"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-1-3-8-6-9"
+             sodipodi:role="line">Subcortical</tspan><tspan
+             y="168.56743"
+             x="-229.72771"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line"
+             id="tspan72060-1-7-1">Volumes</tspan><tspan
+             id="tspan65002-2-5-07-5-2"
+             y="171.05806"
+             x="-229.72771"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+           x="110.37199"
+           y="202.09633"
+           id="text4558-3-7"><tspan
+             sodipodi:role="line"
+             x="110.37199"
+             y="202.09633"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan991-0">d. IMPULSIVITY</tspan></text>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9177215;paint-order:fill markers stroke"
+           id="rect1005-3-6-9"
+           width="100.53001"
+           height="34.115913"
+           x="108.04951"
+           y="204.8268" />
+      </g>
+      <g
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         transform="matrix(0.89346149,0,0,0.89346149,94.753893,-26.851121)"
+         id="g1205">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0007;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+           x="4.9259858"
+           y="202.16113"
+           id="text4558-3"><tspan
+             sodipodi:role="line"
+             x="4.9259858"
+             y="202.16113"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93888903px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;fill-opacity:1;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan991">e. SPATIAL ORIENTATION</tspan></text>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.9177215;paint-order:fill markers stroke"
+           id="rect1005-3-6"
+           width="100.53"
+           height="34.116009"
+           x="2.2339959"
+           y="204.82668" />
+        <text
+           transform="rotate(-90)"
+           id="text65000-3-1"
+           y="5.0455627"
+           x="-214.15271"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="5.0455627"
+             x="-213.80733"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-4-9"
+             sodipodi:role="line">Local </tspan><tspan
+             id="tspan65002-9-5"
+             y="7.5795751"
+             x="-214.15271"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line">connectome</tspan></text>
+        <text
+           transform="rotate(-90)"
+           id="text65000-74-4-3"
+           y="56.185852"
+           x="-228.87064"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="56.185852"
+             x="-228.52525"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-1-3-12"
+             sodipodi:role="line">Cortical </tspan><tspan
+             y="58.719864"
+             x="-228.87064"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line"
+             id="tspan72060-7">Thickness</tspan><tspan
+             id="tspan65002-2-5-7"
+             y="61.210499"
+             x="-228.87064"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line" /></text>
+        <text
+           transform="rotate(-90)"
+           id="text65000-74-4-9"
+           y="5.0455627"
+           x="-229.19449"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif Bold Italic';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+           xml:space="preserve"><tspan
+             y="5.0455627"
+             x="-228.84911"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             id="tspan64998-1-3-8"
+             sodipodi:role="line">Cortical </tspan><tspan
+             y="7.5795751"
+             x="-229.19449"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line"
+             id="tspan72060-1">Surface</tspan><tspan
+             id="tspan65002-2-5-07"
+             y="10.07021"
+             x="-229.19449"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.4906342px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold Italic';text-align:center;text-anchor:middle;stroke-width:0.18679756;stroke-linecap:butt;stroke-linejoin:round"
+             sodipodi:role="line" /></text>
+        <image
+           sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/VSPLOT_TC/thickness_weights.png"
+           xlink:href="VSPLOT_TC/thickness_weights.png"
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           width="39.560001"
+           height="13.046"
+           preserveAspectRatio="none"
+           id="image1826"
+           x="59.916237"
+           y="222.94067" />
+        <image
+           sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/VSPLOT_TC/surface_weights.png"
+           xlink:href="VSPLOT_TC/surface_weights.png"
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           width="39.560001"
+           height="13.046"
+           preserveAspectRatio="none"
+           id="image1837"
+           x="9.5017271"
+           y="222.94038" />
+        <image
+           sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/VSPLOT_TC/local_connectome.png"
+           xlink:href="VSPLOT_TC/local_connectome.png"
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           width="90.710999"
+           height="12.958714"
+           preserveAspectRatio="none"
+           id="image1848"
+           x="9.5016508"
+           y="206.93282" />
+      </g>
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogCrystalComp_Unadj/res_pos_choord.png"
+         xlink:href="CogCrystalComp_Unadj/res_pos_choord.png"
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         width="18.92977"
+         height="18.92977"
+         preserveAspectRatio="none"
+         id="image1110"
+         x="104.49813"
+         y="125.90637" />
+      <image
+         sodipodi:absref="/home/javitxu/Documentos/multimodal-cognition/plots/neurophenotypes/CogCrystalComp_Unadj/res_neg_choord.png"
+         xlink:href="CogCrystalComp_Unadj/res_neg_choord.png"
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         width="18.92977"
+         height="18.92977"
+         preserveAspectRatio="none"
+         id="image1188"
+         x="123.4279"
+         y="125.90637" />
+      <g
+         transform="matrix(1.0429523,0,0,1.0429523,93.903606,-0.41292612)"
+         style="stroke-linecap:butt;stroke-linejoin:round"
+         id="g1885">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+           id="rect1773"
+           width="84.704872"
+           height="17.745203"
+           x="-80.410629"
+           y="72.670708" />
+        <g
+           id="g1842"
+           style="stroke-linecap:butt;stroke-linejoin:round"
+           transform="translate(-96.377129,0.78716177)">
+          <rect
+             y="72.939941"
+             x="17.673126"
+             height="3"
+             width="3"
+             id="rect1294"
+             style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <text
+             id="text1298"
+             y="75.446213"
+             x="22.04582"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="75.446213"
+               x="22.04582"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296"
+               sodipodi:role="line">Primary Visual</tspan></text>
+          <rect
+             y="77.173279"
+             x="17.673126"
+             height="3"
+             width="3"
+             id="rect1294-5"
+             style="opacity:1;fill:#990099;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="81.038521"
+             x="17.673363"
+             height="3"
+             width="3"
+             id="rect1294-8"
+             style="opacity:0.91000001;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="84.968521"
+             x="17.673363"
+             height="3"
+             width="3"
+             id="rect1294-8-7"
+             style="opacity:1;fill:#b15928;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="72.939934"
+             x="48.189819"
+             height="3"
+             width="3"
+             id="rect1294-9"
+             style="opacity:0.91000001;fill:#6400ff;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="77.173279"
+             x="48.189819"
+             height="3"
+             width="3"
+             id="rect1294-5-6"
+             style="opacity:1;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="81.038521"
+             x="48.190056"
+             height="3"
+             width="3"
+             id="rect1294-8-0"
+             style="opacity:1;fill:#f93dfb;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="84.968521"
+             x="48.190056"
+             height="3"
+             width="3"
+             id="rect1294-8-7-4"
+             style="opacity:0.91000001;fill:#ff9c00;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="73.200661"
+             x="76.160355"
+             height="3"
+             width="3"
+             id="rect1294-9-1"
+             style="opacity:0.91000001;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="77.173523"
+             x="76.160355"
+             height="3"
+             width="3"
+             id="rect1294-5-6-0"
+             style="opacity:1;fill:#009a9a;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="81.038521"
+             x="76.160591"
+             height="3"
+             width="3"
+             id="rect1294-8-0-4"
+             style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <rect
+             y="84.968521"
+             x="76.160591"
+             height="3"
+             width="3"
+             id="rect1294-8-7-4-8"
+             style="opacity:1;fill:#417c00;fill-opacity:1;stroke:none;stroke-width:0.36842349;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+          <text
+             id="text1298-7"
+             y="75.445824"
+             x="52.419357"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="75.445824"
+               x="52.419357"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4"
+               sodipodi:role="line">Secondary Visual </tspan></text>
+          <text
+             id="text1298-7-4"
+             y="79.350822"
+             x="80.261353"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="79.350822"
+               x="80.261353"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4-6"
+               sodipodi:role="line">Language</tspan></text>
+          <text
+             id="text1298-7-4-2"
+             y="75.446213"
+             x="80.361435"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="75.446213"
+               x="80.361435"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4-6-2"
+               sodipodi:role="line">Somatomotor</tspan></text>
+          <g
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             id="g1303-5-3-6"
+             transform="translate(-9.2900269,96.333292)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               x="31.335848"
+               y="-16.937263"
+               id="text1298-7-4-28"><tspan
+                 sodipodi:role="line"
+                 id="tspan1296-4-6-8"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+                 x="31.335848"
+                 y="-16.937263">Cingulo-Opercular</tspan></text>
+          </g>
+          <text
+             id="text1298-7-4-28-8"
+             y="79.557579"
+             x="52.330208"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="79.557579"
+               x="52.330208"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4-6-8-8"
+               sodipodi:role="line">Dorsal Attention</tspan></text>
+          <g
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             id="g1303-5-3-6-8"
+             transform="translate(-9.2900269,100.13765)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               x="31.335848"
+               y="-16.937263"
+               id="text1298-7-4-28-83"><tspan
+                 sodipodi:role="line"
+                 id="tspan1296-4-6-8-83"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+                 x="31.335848"
+                 y="-16.937263">Frontoparietal</tspan></text>
+          </g>
+          <text
+             id="text1298-7-4-28-83-8"
+             y="83.245827"
+             x="52.508663"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="83.245827"
+               x="52.508663"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4-6-8-83-0"
+               sodipodi:role="line">Auditory</tspan></text>
+          <text
+             id="text1298-7-4-28-83-6"
+             y="83.449165"
+             x="80.272209"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="83.449165"
+               x="80.272209"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4-6-8-83-8"
+               sodipodi:role="line">Default Mode</tspan></text>
+          <g
+             style="stroke-linecap:butt;stroke-linejoin:round"
+             id="g1303-5-3-6-8-9"
+             transform="translate(-9.2900269,104.21685)">
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               x="31.335848"
+               y="-16.937263"
+               id="text1298-7-4-28-83-68"><tspan
+                 sodipodi:role="line"
+                 id="tspan1296-4-6-8-83-7"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+                 x="31.335848"
+                 y="-16.937263">Posterior Multimodal</tspan></text>
+          </g>
+          <text
+             id="text1298-7-4-28-83-68-3"
+             y="87.283577"
+             x="52.509869"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="87.283577"
+               x="52.509869"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4-6-8-83-7-3"
+               sodipodi:role="line">Ventral Multimodal</tspan></text>
+          <text
+             id="text1298-7-4-28-83-68-3-3"
+             y="87.360672"
+             x="80.343346"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+             xml:space="preserve"><tspan
+               y="87.360672"
+               x="80.343346"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944451px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round"
+               id="tspan1296-4-6-8-83-7-3-2"
+               sodipodi:role="line">Orbito Affective</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
